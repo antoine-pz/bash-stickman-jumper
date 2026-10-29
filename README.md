@@ -14,7 +14,7 @@ Without the camera following the stickman.
 
 ### `stickman_v2`
 
-With the camera following the stickman, allowing to 
+With the camera following the stickman, allowing you to climb higher.
 
 ![Demo 2](./stickman_v2_demo.gif)
 
