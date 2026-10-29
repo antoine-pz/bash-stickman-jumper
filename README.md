@@ -59,15 +59,3 @@ chmod +x stickman_v2.sh
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 Licensed under the MIT License.
 See the `LICENSE` file for details.
-
----
-
-## Feedback
-
-If you have any feedback, please reach out at baruchdesailly@gmail.com.
-
----
-
-## GitHub Repo
-
-https://github.com/antoine-pz/bash-stickman-jumper
