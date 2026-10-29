@@ -1,4 +1,4 @@
-# 🏃‍♂️ Stickman Jumper (bash-stickman-jumper)
+# Stickman Jumper (bash-stickman-jumper)
 
 A retro-style ASCII platformer that turns your Linux Terminal history (thanks to tmux) into a playable game level, jumping over commands.
 
@@ -42,7 +42,7 @@ chmod +x stickman_v2.sh
 
 ---
 
-## 👤 Author
+## Author
 
 * [@antoine-pz](https://github.com/antoine-pz) 
 
