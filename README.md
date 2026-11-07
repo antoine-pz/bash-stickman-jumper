@@ -10,13 +10,13 @@ A retro-style ASCII platformer that turns your Linux Terminal history (thanks to
 
 Without the camera following the stickman.
 
-![Demo 1](./stickman_v1_demo.gif)
+![Demo 1](./assets/stickman_v1_demo.gif)
 
 ### `stickman_v2`
 
 With the camera following the stickman, allowing you to climb higher.
 
-![Demo 2](./stickman_v2_demo.gif)
+![Demo 2](./assets/stickman_v2_demo.gif)
 
 ---
 
