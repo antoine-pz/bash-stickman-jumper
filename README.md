@@ -38,7 +38,8 @@ chmod +x stickman_v1.sh
 chmod +x stickman_v2.sh
 ```
 
-4. And that's it ! You can know enter some `ls` or `cat` commands in order to build your own jump level with your own code !
+4. Move left with ```Q```, right with ```D``` and jump with ```Space```.
+5. And that's it ! You can now enter some `ls` or `cat` commands in order to build your own jump level with your own code !
 
 ---
 
